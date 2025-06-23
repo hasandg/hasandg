@@ -2,7 +2,7 @@
 
 **Senior Software Engineer • 15+ Years • Enterprise Systems**
 
-🚀 Building scalable backend services 
+🚀 Building scalable backend services  
 🔧 Java • Spring Boot • PostgreSQL • Kafka • AWS  
 📊 Python • Spark • Airflow • Data Analytics
 
