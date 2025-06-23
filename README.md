@@ -4,7 +4,7 @@
 
 🚀 Building scalable backend services 
 🔧 Java • Spring Boot • PostgreSQL • Kafka • AWS  
-📊 Python • Spark • Data Analytics
+📊 Python • Spark • Airflow • Data Analytics
 
 ### 💻 Current Focus
 High-performance microservices with integrated data processing
