@@ -9,7 +9,7 @@
 ### 💻 Current Focus
 High-performance microservices with integrated data processing
 
-### 📍 Ankara, Turkey
+### 📍 Ankara, Türkiye
 
 <a href="https://github.com/hasandg">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasandg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
