@@ -12,8 +12,8 @@ High-performance microservices with integrated data processing
 ### 📍 Ankara, Türkiye
 
 <a href="https://github.com/hasandg">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasandg&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasandg&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="./profile/stats.svg"/>
+  <img height="180em" src="./profile/top-langs.svg"/>
 </a>
 
 ---
